@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "Auth Service",
+	  "path": "auth"
+    },
+    {
+		"name":"root",
+      "path": "."
+    }
+  ]
+}
