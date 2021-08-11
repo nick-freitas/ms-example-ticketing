@@ -1,7 +1,8 @@
 # Microservices Example Project (Ticketing)
 
 ## Services
-[ms-example-ticketing/auth](https://github.com/nick-freitas/ms-example-ticketing-auth)
+[ms-example-ticketing.auth](https://github.com/nick-freitas/ms-example-ticketing.auth)
+[ms-example-ticketing.mset-client](https://github.com/nick-freitas/ms-example-ticketing.mset-client)
 
 
 ## Dev Notes
