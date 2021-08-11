@@ -23,3 +23,9 @@ cp skaffold.exe .\ms-example-ticketing\
 cd .\ms-example-ticketing\
 ./skaffold.exe dev
 ```
+
+* JWT Secret Key
+
+```
+kubectl create secret generic jwt-secret --from-literal=JWT_SECRET_KEY=FAKE_SECRET_KEY
+``` 
