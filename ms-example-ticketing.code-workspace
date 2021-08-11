@@ -1,11 +1,15 @@
 {
   "folders": [
     {
-      "name": "Auth Service",
-	  "path": "auth"
+      "name": "Client (NX)",
+      "path": "mset-client"
     },
     {
-		"name":"root",
+      "name": "Auth Service",
+      "path": "auth"
+    },
+    {
+      "name":"root",
       "path": "."
     }
   ]
