@@ -31,3 +31,7 @@ cd .\ms-example-ticketing\
 ```
 kubectl create secret generic jwt-secret --from-literal=JWT_SECRET_KEY=FAKE_SECRET_KEY
 ``` 
+
+* Url
+
+Use ticketing.dev WIHOUT a port number. Ingress Controller is listening on 80, dont do ticketing.dev:3000
